@@ -1,14 +1,16 @@
 # week1-code challenge
 Repository for Week 1 code challenge
 // README.md content
-const readmeContent = `
-# Programming Challenges README
+const readmeContent = 
+
+ PROGRAMING CHALLENGES  README
 
 This repository contains solutions to several programming challenges focused on practical scenarios.
 
-## Challenges Overview
+** Challenges Overview
 
-### Challenge 1: Student Grade Generator
+
+## Challenge 1: Student Grade Generator
 
 **Purpose:** This function generates a grade based on student marks input by the user.
 
@@ -34,7 +36,7 @@ This repository contains solutions to several programming challenges focused on 
    - For every 5 km/h above 70 km/h, one demerit point is added.
    - If the total demerit points exceed 12, the program prints "License suspended."
 
-### Challenge 3: Net Salary Calculator
+#### Challenge 3: Net Salary Calculator
 
 **Purpose:** This program calculates the net salary of an individual after deductions.
 
@@ -51,19 +53,19 @@ This repository contains solutions to several programming challenges focused on 
 **Additional Information:**
 - Use the KRA, NHIF, and NSSF rates provided in the [KRA website](https://www.aren.co.ke/payroll/taxrates.htm) for accurate calculations.
 
-### Sample Inputs/Outputs:
+##### Sample Inputs/Outputs:
 
 For each program, here are some sample inputs and expected outputs:
 
-#### Student Grade Generator:
+ Student Grade Generator:
 - Input: 80
 - Output: Grade: A
 
-#### Speed Detector:
+ Speed Detector:
 - Input: 78
 - Output: Points: 2
 
-#### Net Salary Calculator:
+ Net Salary Calculator:
 - Input: 
   - Basic Salary: 60000
   - Benefits: 10000
@@ -74,12 +76,12 @@ For each program, here are some sample inputs and expected outputs:
   - NSSF Deductions: 1200
   - Net Salary: 60000
 
-### Requirements:
+###### Requirements:
 
 - JavaScript environment (Node.js, browser console, etc.) to run the programs.
 - Ensure inputs are within valid ranges as specified.
 
-### License:
+ LICENCE:
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 `;
