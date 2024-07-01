@@ -21,4 +21,5 @@ function StudentGrader(score) {
     return grade;
 
 
-console.log(StudentGrader(40));
+
+ 
